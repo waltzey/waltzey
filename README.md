@@ -2,7 +2,8 @@
 
 **Cybersecurity Engineering Student | Contract Engineer @ Huawei | Future Pentester**
 
-I'm building my path into cybersecurity from the ground up — learning, breaking, and securing things along the way. Based in Panama 🇵🇦, currently working toward my CompTIA Security+ certification while getting hands-on experience through labs and personal projects.
+I'm building my path into cybersecurity from the ground up — learning, breaking, and securing things along the way. Based in Panama 🇵🇦
+, currently working toward my CompTIA Security+ certification while getting hands-on experience through labs and personal projects.
 
 ---
 
@@ -37,6 +38,9 @@ I'm building my path into cybersecurity from the ground up — learning, breakin
 
 ### 📫 Connect
 - 🌐 [Security+ Study App](https://sectestprep.netlify.app)
-- 💻 [TryHackMe Profile](https://tryhackme.com/) _(add your profile link)_
-
+- 💻 [TryHackMe Profile](https://tryhackme.com/p/waltz)
+- 🛄 [LinkedIn](https://www.linkedin.com/in/omar-villamil-03544a21b/)
 ---
+
+![FlagPanamaGIF](https://github.com/user-attachments/assets/3e0a60a8-87ad-472a-9769-d3e47f1287e1)
+
